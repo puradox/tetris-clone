@@ -1,0 +1,15 @@
+# Java
+bin/
+*.class
+
+# Package Files #
+*.jar
+
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Design
+*.psd
