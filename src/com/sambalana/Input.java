@@ -1,3 +1,5 @@
+package com.sambalana;
+
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
@@ -8,6 +10,7 @@ public class Input extends KeyAdapter
 	private static Input instance;
 	public static List<Integer> inputBuffer;
 	
+	// Singleton structure for the Input class
 	private Input()
 	{
 		inputBuffer = new ArrayList<Integer>();
@@ -22,6 +25,7 @@ public class Input extends KeyAdapter
 		return instance;
 	}
 	
+	// Key Down
 	public static synchronized boolean getKeyDown (int asciiCode)
 	{
 		getInstance();
@@ -38,6 +42,7 @@ public class Input extends KeyAdapter
 		return false;
 	}
 	
+	// Key Press
 	public static synchronized boolean getKeyPress (int asciiCode)
 	{
 		getInstance();

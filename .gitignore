@@ -2,9 +2,6 @@
 bin/
 *.class
 
-# Package Files #
-*.jar
-
 # Eclipse
 .metadata/
 .settings/

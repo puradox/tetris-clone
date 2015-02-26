@@ -1,3 +1,4 @@
+package com.sambalana;
 
 public class Main 
 {

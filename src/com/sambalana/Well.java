@@ -1,3 +1,5 @@
+package com.sambalana;
+
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.List;
@@ -78,7 +80,7 @@ public class Well
 				// Debug mode
 				if( Input.getKeyDown(KeyEvent.VK_SPACE) )
 				{
-					System.out.println("DEBUG MODE BIOTCH!");
+					System.out.println("DEBUG MODE");
 				}
 			}
 		}

@@ -1,10 +1,11 @@
+package com.sambalana;
+
 import java.awt.Image;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.ImageIcon;
-
 
 public class Color 
 {

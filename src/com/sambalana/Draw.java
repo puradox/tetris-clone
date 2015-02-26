@@ -1,3 +1,5 @@
+package com.sambalana;
+
 import java.awt.BasicStroke;
 import java.awt.Font;
 import java.awt.Graphics;

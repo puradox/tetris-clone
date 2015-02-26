@@ -1,3 +1,5 @@
+package com.sambalana;
+
 import java.awt.event.KeyEvent;
 
 import javax.swing.JFrame;

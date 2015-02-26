@@ -1,4 +1,4 @@
-
+package com.sambalana;
 
 public class Time 
 {
