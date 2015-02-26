@@ -14,8 +14,12 @@ git clone https://github.com/puradox/tetris-clone.git
 ```
 - Run the .jar file
 ```
+cd tetris-clone
 java -jar Tetris.jar
 ```
+- Enjoy the game!
+
+![Screenshot of tetris-clone](https://raw.githubusercontent.com/puradox/tetris-clone/master/screenshot.png)
 
 #####Controls: (Use arrow keys for movement)
 - UP : rotate
