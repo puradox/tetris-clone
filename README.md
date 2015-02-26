@@ -6,7 +6,6 @@ Controls: (Use arrow keys for movement)
 - DOWN : speed up
 - LEFT : move left
 - RIGHT : move right
-- SPACE : debug mode (breakpoint, only works while debugging in Eclipse)
 - ESCAPE : pause
 
 Features:
