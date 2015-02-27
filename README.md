@@ -22,8 +22,8 @@ java -jar Tetris.jar
 ![Screenshot of tetris-clone](https://raw.githubusercontent.com/puradox/tetris-clone/master/screenshot.png)
 
 #####Controls
-- UP : rotate
-- DOWN : speed up
-- LEFT : move left
-- RIGHT : move right
-- ESCAPE : pause
+- <UP> : rotate
+- <DOWN> : speed up
+- <LEFT> : move left
+- <RIGHT> : move right
+- <ESCAPE> : pause
