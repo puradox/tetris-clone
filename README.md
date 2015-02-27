@@ -2,12 +2,12 @@
 ###### A clone of Tetris made in Java
 
 
-#####Features:
+#####Features
  - Everything is resizeable (configureable in the Well.class file)
  - Easily modable since all pieces and color are imported from files
  - Uses simple, handmade art
 
-#####Usage:
+#####Usage
 - Clone the repository
 ```
 git clone https://github.com/puradox/tetris-clone.git
@@ -21,7 +21,7 @@ java -jar Tetris.jar
 
 ![Screenshot of tetris-clone](https://raw.githubusercontent.com/puradox/tetris-clone/master/screenshot.png)
 
-#####Controls: (Use arrow keys for movement)
+#####Controls
 - UP : rotate
 - DOWN : speed up
 - LEFT : move left
